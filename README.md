@@ -3,7 +3,7 @@
 
 - 📄 I am a software developer with an Associate Degree in software development. I possess knowledge and experience in the development of web and mobile applications, proficiency in multiple programming languages and frameworks, as well as expertise in development methodologies, project planning, and software project structuring.
 
-- ⚡ Fun fact **I believe that software may not be my calling, perhaps art is where my true passion lies.**
+- ⚡ Fun fact **I believe that software may not be my calling 🥵, perhaps art 🎨 is where my true passion lies 🗿.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
