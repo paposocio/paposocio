@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian Penya (Peña)</h1>
+<h1 align="center">Hi 👋, I'm Sebastian Penya (Sebastian Peña)</h1>
 <h3 align="center">A colombian(🇨🇴) software dev</h3>
 
 - 📄 I am a software developer with an Associate Degree in software development. I possess knowledge and experience in
