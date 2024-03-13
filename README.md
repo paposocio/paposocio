@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sebastian Penya (Sebastian Peña)</h1>
+<h1 align="center">Hi 👋, I'm Sebastian Penya (Peña)</h1>
 <h3 align="center">A colombian(🇨🇴) software dev</h3>
 
-- 📄 I am a software developer with an Associate Degree in software development. I possess knowledge and experience in
-the development of web and mobile applications, proficiency in multiple programming languages and frameworks, as well as
-expertise in development methodologies, project planning, and software project structuring.
+- 📄 I am a software developer with an Associate Degree in software development. I possess knowledge and experience in the development of web and mobile applications, proficiency in multiple programming languages and frameworks, as well as expertise in development methodologies, project planning, and software project structuring.
 
-- ⚡ Fun fact **I believe that software may not be my calling 🥵, perhaps art 🎨 is where my true passion lies 🗿.**
+- ⚡ Fun fact **I believe that software may not be my calling, perhaps art is where my true passion lies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sebastian-pena-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-pena-dev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23316222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23316222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
