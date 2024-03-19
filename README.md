@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Penya (Peña)</h1>
 <h3 align="center">A colombian(🇨🇴) software dev</h3>
 
-- 📄 I am a software developer with an Associate Degree in software development. I possess knowledge and experience in the development of web and mobile applications, proficiency in multiple programming languages and frameworks, as well as expertise in development methodologies, project planning, and software project structuring.
+- 📄 I possess knowledge and experience in the development of web and mobile applications, proficiency in multiple programming languages and frameworks, as well as expertise in development methodologies, project planning, and software project structuring.
 
 - ⚡ Fun fact **I believe that software may not be my calling 🥵, but I need to earn a living 🗿.**
 
