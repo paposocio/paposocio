@@ -1,7 +1,7 @@
-<h1 align="center">Saludos 👋, soy Sebastian Peña</h1>
+<h1 align="center">Bienvenido 👋, soy Sebastian Peña</h1>
 <h3 align="center">Desarrollador de software (🇨🇴)</h3>
 
-- 📄 I possess knowledge and experience in the development of web and mobile applications, proficiency in multiple programming languages and frameworks, as well as expertise in development methodologies, project planning, and software project structuring.
+- 📄 LLevo un tiempo en este interesante y a la vez complejo mundo del desarrollo, considero que soy "irreverente" me gusta hacer las cosas de manera poco tradicional asi que bienvenido a mi perfil.
 
 - ⚡ Fun fact **El software puede que no sea lo mio 🥵, pero de algo se tienen que vivir 🗿.**
 
