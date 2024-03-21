@@ -1,7 +1,8 @@
-<h1 align="center">Bienvenido 👋, soy Sebastian Peña</h1>
-<h3 align="center">Desarrollador de software (🇨🇴)</h3>
+<h1 align="center">Hola 👋, soy Sebastian Peña</h1>
+<h3 align="center">(🇨🇴)</h3>
 
-- 📄 LLevo un tiempo en este interesante y a la vez complejo mundo del desarrollo, considero que soy "irreverente" me gusta hacer las cosas de manera poco tradicional asi que bienvenido a mi humilde perfil.
+- Bienvenido a mi humilde perfil 
+- Llevo un buen tiempo en este interesante y a la vez complejo mundo del desarrollo, considero que soy "irreverente" me gusta hacer las cosas de manera poco tradicional asi que es probable que encuentres algo "curioso" o interesante (posiblemente sean malas practicas pero de a poco se aprende) .
 
 - ⚡ Fun fact **El software puede que no sea lo mio 🥵, pero de algo se tienen que vivir 🗿.**
 
