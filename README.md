@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sebastian Penya (Peña)</h1>
-<h3 align="center">A colombian(🇨🇴) software dev</h3>
+<h1 align="center">Saludos 👋, soy Sebastian Peña</h1>
+<h3 align="center">Desarrollador de software (🇨🇴)</h3>
 
 - 📄 I possess knowledge and experience in the development of web and mobile applications, proficiency in multiple programming languages and frameworks, as well as expertise in development methodologies, project planning, and software project structuring.
 
-- ⚡ Fun fact **I believe that software may not be my calling 🥵, but I need to earn a living 🗿.**
+- ⚡ Fun fact **El software puede que no sea lo mio 🥵, pero de algo se tienen que vivir 🗿.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sebastian-pena-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-pena-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23316222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23316222" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left" class='icons_container'> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdKsZOZjWNbaZ83_-cd0JDgkz_LOmGGpH9ydtxYb_kg&s"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
