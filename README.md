@@ -4,7 +4,7 @@
 - Bienvenido a mi humilde perfil 
 - Llevo un buen tiempo en este interesante y a la vez complejo mundo del desarrollo, por mi extravagante perfil podras notar que soy "irreverente" me gusta hacer las cosas de manera poco tradicional.En una industria tan flexible,moderna y cambiante considero que hay que buscar hacer las cosas de otra forma y no ser tan rigido asi que es probable que encuentres algo "curioso" o interesante (posiblemente sean malas practicas pero de a poco se aprende).
 
-- ⚡ Fun fact **El software puede que no sea lo mio 🥵, pero de algo se tienen que vivir 🗿.**
+- ⚡ Fun fact **El software puede que no sea lo mio 🥵, pero de algo se tiene que vivir 🗿.**
 
 <h3 align="left">Conecta:</h3>
 <p align="left">
