@@ -2,7 +2,7 @@
 <h3 align="center">(🇨🇴)</h3>
 
 - Bienvenido a mi humilde perfil 
-- Llevo un buen tiempo en este interesante y a la vez complejo mundo del desarrollo, por mi extravagante perfil podras notar que soy "irreverente" me gusta hacer las cosas de manera poco tradicional.En una industria tan cambiante considero que hay que buscar hacer las cosas de otra forma y no ser tan rigido asi que es probable que encuentres algo "curioso" o interesante pero de a poco se aprende.
+- Llevo un buen tiempo en este interesante y a la vez complejo mundo del desarrollo empecé porque quería hacer mis pripios videojuegos pero ahora estoy aqui, por mi extravagante perfil podras notar que soy "irreverente" me gusta hacer las cosas de manera poco tradicional. En una industria tan cambiante considero que hay que buscar hacer las cosas de otra forma y no ser tan rigido asi que es probable que encuentres algo "curioso" o interesante (malas practicas) pero de a poco se aprende.
 
 - ⚡ Fun fact **El software puede que no sea lo mio 🥵, pero de algo se tiene que vivir 🗿.**
 
